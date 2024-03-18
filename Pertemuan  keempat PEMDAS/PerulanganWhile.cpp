@@ -15,4 +15,8 @@ int main(){
 
         bilangan = rand() % 12;
     }
+
+    cout << bilangan << endl;
+    cout << "Bilangannya genap" << endl;
+    
 }
